@@ -4,10 +4,10 @@ Dieses Repository enthält die gemeinfreie Bibelübersetzung nach Hermann Menge.
 
 ## API
 
-Die Bibel kann über jsDeliver als API abgefragt werden.
+Die Bibel kann über die [jsDelivr](https://www.jsdelivr.com) API abgefragt werden.
 
 ```bash
-https://cdn.jsdelivr.net/gh/RootDev4/German-Menge-Bible@main/books/{buch}/{kapitel}.json
+https://cdn.jsdelivr.net/gh/RootDev4/German-Menge-Bible@main/books/{buch_id}/{kapitel}.json
 ```
 
 ### Kapitel
@@ -160,4 +160,4 @@ https://cdn.jsdelivr.net/gh/RootDev4/German-Menge-Bible@main/books/GEN/1.json
 ## Lizenz
 Die Bibel in der Übersetzung von Hermann Mengeist nach deutschem Urheberrecht seit 2010 gemeinfrei und ist damit in Deutschland frei von Schutzrechten ([Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/deed.de)).
 
-Du kannst die API-Schnittstelle damit kostenfrei und lizenzfrei verwenden.
+Du kannst die Texte und auch diese API-Schnittstelle damit kostenfrei und lizenzfrei verwenden.
