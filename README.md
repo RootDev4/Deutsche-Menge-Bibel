@@ -7,13 +7,13 @@ Dieses Repository enthält die gemeinfreie Bibelübersetzung nach Hermann Menge.
 Die Bibel kann über die [jsDelivr](https://www.jsdelivr.com) API abgefragt werden.
 
 ```bash
-https://cdn.jsdelivr.net/gh/RootDev4/German-Menge-Bible@main/books/{buch_id}/{kapitel}.json
+https://cdn.jsdelivr.net/gh/RootDev4/Deutsche-Menge-Bibel@main/books/{buch_id}/{kapitel}.json
 ```
 
 ### Kapitel
 Beispiel: 1\. Kapitel des Buches 1. Mose (Genesis)
 ```bash
-https://cdn.jsdelivr.net/gh/RootDev4/German-Menge-Bible@main/books/GEN/1.json
+https://cdn.jsdelivr.net/gh/RootDev4/Deutsche-Menge-Bibel@main/books/GEN/1.json
 ```
 
 ### Verse
